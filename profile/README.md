@@ -6,14 +6,17 @@ Travel Duo는 여행을 사랑하는 사람들이 모여 더 나은 여행 경�
 
 ## 현재 프로젝트: 여행 일정 플래너 🗺️
 
-### Public Repositories
-![Public Repos](https://img.shields.io/github/repos/travel-duo?style=for-the-badge)
+## 레파지토리
+- ![Private Repos](https://img.shields.io/badge/Private-travel--duo--server-blue?logo=github)
+- ![Private Repos](https://img.shields.io/badge/Private-travel--duo--web-blue?logo=github)
 
-### Private Repositories
-![Private Repos](https://img.shields.io/github/repos/travel-duo?style=for-the-badge&type=private)
 
 
 ## 기술 스택 💻
+- ![](https://img.shields.io/badge/npm-v10.7.0-blue?logo=nodedotjs)
+- ![](https://img.shields.io/badge/node-v18.20.3-blue?logo=nodedotjs)
+- ![](https://img.shields.io/badge/typescript-gray?logo=ts-node)
+- ![](https://img.shields.io/badge/nest--js-gray?logo=NestJs)
 
 ## 최근 업데이트 📣
 
