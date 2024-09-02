@@ -12,6 +12,7 @@ https://scheduling.co.kr
 ## 레파지토리
 - ![Private Repos](https://img.shields.io/badge/Private-travel--duo--server-blue?logo=github)
 - ![Private Repos](https://img.shields.io/badge/Private-travel--duo--web-blue?logo=github)
+- ![Private Repos](https://img.shields.io/badge/Private-travel--duo--app-blue?logo=github)
 
 
 ## 기술 스택 💻
