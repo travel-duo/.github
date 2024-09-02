@@ -6,10 +6,12 @@ Travel Duo는 여행을 사랑하는 사람들이 모여 더 나은 여행 경�
 
 ## 현재 프로젝트: 여행 일정 플래너 🗺️
 
+## 홈페이지
+https://scheduling.co.kr
+
 ## 레파지토리
 - ![Private Repos](https://img.shields.io/badge/Private-travel--duo--server-blue?logo=github)
 - ![Private Repos](https://img.shields.io/badge/Private-travel--duo--web-blue?logo=github)
-
 
 
 ## 기술 스택 💻
